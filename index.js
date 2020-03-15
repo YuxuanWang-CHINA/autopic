@@ -1,0 +1,1 @@
+const watermarkor = require('watermarkor')

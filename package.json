@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/YuxuanWang-CHINA/autopic#readme",
   "dependencies": {
+    "imagemin": "^7.0.1",
     "watermarkor": "^3.0.2"
   },
   "publishConfig": {
